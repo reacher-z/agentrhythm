@@ -8,6 +8,7 @@ AgentRhythm is an independent directory. It organizes research works by the task
 
 - [Research questions](https://agentrhythm.org/questions/): browse 29 research works by task, contribution, and intended use.
 - [Machine-readable resource index](https://agentrhythm.org/resources.json): structured list of entries and original-source links.
+- [Readable resource index](https://agentrhythm.org/resources.md): Markdown view of the same task-based entries and original sources.
 - [Sitemap](https://agentrhythm.org/sitemap.xml): public HTML pages.
 
 ## Useful starting questions
