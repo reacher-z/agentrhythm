@@ -1,0 +1,21 @@
+# AgentRhythm
+
+> An open research resource directory organized by questions, original sources, and practical evidence checks.
+
+AgentRhythm is an independent directory. It organizes research works by the tasks they address and links directly to original papers, code, datasets, and project records. Use those original sources for authorship, citation, versions, licensing, metrics, and reuse conditions.
+
+## Main entry points
+
+- [Research questions](https://agentrhythm.org/questions/): browse 29 research works by task, contribution, and intended use.
+- [Machine-readable resource index](https://agentrhythm.org/resources.json): structured list of entries and original-source links.
+- [Sitemap](https://agentrhythm.org/sitemap.xml): public HTML pages.
+
+## Useful starting questions
+
+- Can a valid structured output still be wrong? Start with [StructEval](https://agentrhythm.org/questions/#structeval).
+- Does a retrieved citation support the claim? Start with [ScholarCopilot](https://agentrhythm.org/questions/#scholarcopilot).
+- Does a video question actually require video evidence? Start with [Watch Before You Answer](https://agentrhythm.org/questions/#vid-filter).
+
+## Scope and evidence boundary
+
+This directory is a navigation and evidence-checking resource, not an independent ranking, a comprehensive literature review, or a source of new benchmark results. Each entry has a bounded intended use. Do not infer that a linked work supports applications or results outside the scope described by its original source.
