@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://agentrhythm.org/resources.xml</id>
+  <title>AgentRhythm research resources</title>
+  <updated>2026-09-15T00:00:00Z</updated>
+  <link rel="self" href="https://agentrhythm.org/resources.xml" type="application/atom+xml" />
+  <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+  <subtitle>Open research directory organized by task; use each original source for authorship, citation, version, and reuse details.</subtitle>
+  <entry>
+    <id>urn:agentrhythm:resource:7aa2b2b36940438bb4cdda0bd934b7162fd48073766ffc5410b8acd8c733b63c</id>
+    <title>An Attention-based Multi-Scale Feature Learning Network for Multimodal Medical Image Fusion</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2212.04661" type="text/html" title="Original source" />
+    <category term="Multiscale feature learning for multimodal medical image fusion" />
+    <summary type="text">Research task: Multiscale feature learning for multimodal medical image fusion. Relevance: Use this source for its attention-based multiscale fusion method; distinguish it from the later edge-enhanced extension. Research image-fusion results do not establish clinical benefit.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:77eabcddcd982cb868d69d50bd693a21cab99d6cef52cb9167bcea8f1974d63d</id>
+    <title>PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2505.12707" type="text/html" title="Original source" />
+    <category term="Time-aligned vision, speech and action data for embodied AI" />
+    <summary type="text">Research task: Time-aligned vision, speech and action data for embodied AI. Relevance: Cite this dataset when using or comparing time-aligned multimodal embodied-agent data. Consult the source for collection protocol, synchronization and permitted use.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:44a67d561f057697d75b0d03c67831f2ed1a1fcf5ff0b610fd153c1eeccb277f</id>
+    <title>Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2510.02190" type="text/html" title="Original source" />
+    <category term="Evaluating deep-research agents from answers to reports" />
+    <summary type="text">Research task: Evaluating deep-research agents from answers to reports. Relevance: Use this benchmark when discussing evaluation of deep-research reports and their semantic quality, topical focus and retrieval trustworthiness.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:02a51e21578fe3e6cdebfded6f3270fe727a53cc8c404011df03708a6025b161</id>
+    <title>WikiGap: Promoting Epistemic Equity by Surfacing Knowledge Gaps Between English Wikipedia and other Language Editions</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2505.24195" type="text/html" title="Original source" />
+    <category term="Finding knowledge gaps across Wikipedia language editions" />
+    <summary type="text">Research task: Finding knowledge gaps across Wikipedia language editions. Relevance: Cite this work for the problem and approach of surfacing knowledge gaps between English Wikipedia and other language editions, with its defined scope of epistemic equity.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:e122053626376d68982da66170b2308030befdad057e436e8eddaa5abf501571</id>
+    <title>StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2505.20139" type="text/html" title="Original source" />
+    <category term="Evaluating structured output generation and format conversion" />
+    <summary type="text">Research task: Evaluating structured output generation and format conversion. Relevance: Use this benchmark when evaluating structural output generation or conversion across textual and visually rendered formats. Syntax validity alone does not establish content correctness.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:9d403a0aa8e9ac8414839a5f641dc29ccc68ab863d7686b435159f106670ede9</id>
+    <title>Retri3D: 3D Neural Graphics Representation Retrieval</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://openreview.net/forum?id=q3EbOXb4y1" type="text/html" title="Original source" />
+    <category term="Retrieving neural graphics representations of 3D scenes" />
+    <summary type="text">Research task: Retrieving neural graphics representations of 3D scenes. Relevance: Cite this work when discussing retrieval from neural 3D scene representations and the role of views and representation analysis.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:d0b7339ea5d6272189aa3554065328250f85dbc3aa8167f9bbe1601d7779b602</id>
+    <title>ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2504.00824" type="text/html" title="Original source" />
+    <category term="Academic writing with learned citation retrieval" />
+    <summary type="text">Research task: Academic writing with learned citation retrieval. Relevance: Cite this work when discussing joint academic text generation and citation retrieval, or when using its released writing model and retrieval setup.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:5c82af7ee86c901a0f57bf4de06432267be3f58c994434e801025519532cc0ba</id>
+    <title>VideoScore2: Think before You Score in Generative Video Evaluation</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2509.22799" type="text/html" title="Original source" />
+    <category term="Reasoning-based evaluation of generated videos" />
+    <summary type="text">Research task: Reasoning-based evaluation of generated videos. Relevance: Use this work when comparing evaluation of generated-video quality and reasoning-based scoring. Compare dimensions and protocols rather than combining scores from different benchmarks.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:4edf6d857227db3418a03a25f291ad1b9bdca3c8b38e5305e8244cbfeda00e21</id>
+    <title>Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2506.15078" type="text/html" title="Original source" />
+    <category term="Distributional matching for vector quantization" />
+    <summary type="text">Research task: Distributional matching for vector quantization. Relevance: Use this 2025 record for its theoretical and empirical treatment of distributional matching in vector quantization. The related 2026 record has a separate identifier and overlapping material.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:c729fca58134d4d0abf53eaf021c1949dd790ea2ea371bd585f5393b5d08f124</id>
+    <title>Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2411.11799" type="text/html" title="Original source" />
+    <category term="Edge-enhanced multimodal medical image fusion" />
+    <summary type="text">Research task: Edge-enhanced multimodal medical image fusion. Relevance: Use this source for the edge-enhanced dilated residual attention fusion extension. Keep the original medical-fusion paper and this extension separately identified.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:a1fd5c2818c51fc15987688b6de9aa3e9a9c1436f6808cbe3a2882df4914bedd</id>
+    <title>S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2608.31100" type="text/html" title="Original source" />
+    <category term="Testing self-improvement through self-testing and self-judging" />
+    <summary type="text">Research task: Testing self-improvement through self-testing and self-judging. Relevance: Cite this benchmark when examining whether an agent's self-testing and self-judging lead to measurable improvement through interaction.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:6739a779d06ff771b6344879136e5dfc1a3817ad51b661443bb80713daf6de78</id>
+    <title>RewardHarness: Learning Human Preferences for Image Editing with Only 100 Demonstrations</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2605.08703" type="text/html" title="Original source" />
+    <category term="Learning rewards for instruction-guided image editing" />
+    <summary type="text">Research task: Learning rewards for instruction-guided image editing. Relevance: Cite the appropriate version when discussing learning human preferences for image editing. The homepage publication title and the saved preprint BibTeX may differ; both are exposed explicitly.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:9dbaf9c82e71caf8530a04243f2b734c7fc5f652dc9ac7d65e4291ffecde6778</id>
+    <title>Aspire: Can Models Self-Evolve from Vague Goals?</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2608.31111" type="text/html" title="Original source" />
+    <category term="Agent self-evolution from vague goals" />
+    <summary type="text">Research task: Agent self-evolution from vague goals. Relevance: Use this work when discussing how agents interpret vague goals and construct a learning process, rather than assuming a fully specified objective.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:018610606ab88a0bbf60bb73ef286fa89ed4d0b12ab0888b10ab0c977207a76d</id>
+    <title>CompRank: Efficient LLM Reranking via Token-Level Compression and Decoding-Free Scoring</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2606.11700" type="text/html" title="Original source" />
+    <category term="Efficient language-model reranking" />
+    <summary type="text">Research task: Efficient language-model reranking. Relevance: Cite this method when discussing token-level compression and decoding-free scoring for LLM reranking. Check the reported retrieval tasks and cost measurements in the source.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:bd3f42d6864872070766dd50a4ee70fb7d58e507db226a95e2a41f9b6e2df1a9</id>
+    <title>Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2606.06113" type="text/html" title="Original source" />
+    <category term="Localized defect feedback for text-to-image generation" />
+    <summary type="text">Research task: Localized defect feedback for text-to-image generation. Relevance: Use this work for structured feedback about where a defect is, what it is, why it matters and its importance; consult the source for the grounding and feedback protocol.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:9e06f3dc1fd3b940a6d78b348a9848923dc7eae327e038614614bce0b85de787</id>
+    <title>HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2609.01437" type="text/html" title="Original source" />
+    <category term="Creating and evolving model-external agent harnesses" />
+    <summary type="text">Research task: Creating and evolving model-external agent harnesses. Relevance: Cite this benchmark when evaluating creation or evolution of agent execution infrastructure, keeping harness changes distinct from model-weight updates.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:c507eb4d2e264ac9e706e5382b0de5f11f070a2e8a5442db08165fc6cae099d1</id>
+    <title>MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2605.30288" type="text/html" title="Original source" />
+    <category term="Source-aware data selection for mid-training" />
+    <summary type="text">Research task: Source-aware data selection for mid-training. Relevance: Use this work when discussing rubric anchoring and source-aware selection of mid-training data; refer to the paper for the precise selection procedure.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:3b2161192fc5d546066e3ff6a385dfb0b5a7c9170008985c5177bf5eedfce247</id>
+    <title>WebWorld: The Browser as a World Model for Self-Improving Web Code</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2608.30530" type="text/html" title="Original source" />
+    <category term="Browser-grounded evaluation for self-improving web code" />
+    <summary type="text">Research task: Browser-grounded evaluation for self-improving web code. Relevance: Use this work when discussing browser execution and external feedback in web-code improvement, including the limitations of judging changes by visual plausibility.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:b23ec6a9d19c6755b58c092ac875619afced3d8db38cd2f6b8a4330535bdbff4</id>
+    <title>OpenSkill: Open-World Self-Evolution for LLM Agents</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2606.06741" type="text/html" title="Original source" />
+    <category term="Open-world self-evolution for language-model agents" />
+    <summary type="text">Research task: Open-world self-evolution for language-model agents. Relevance: Cite this work when studying agent adaptation without assuming a curated learning loop or ready-made successful trajectories.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:5b47dfe43648d7f8c8994786d01e7c0a9c154580812e99a246e6f20125a082fc</id>
+    <title>Watch Before You Answer: Learning from Visually Grounded Post-Training</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2604.05117" type="text/html" title="Original source" />
+    <category term="Video post-training that depends on visual evidence" />
+    <summary type="text">Research task: Video post-training that depends on visual evidence. Relevance: Cite this study when discussing linguistic shortcuts in video question answering or selecting post-training data for visual dependence. Check the paper's experimental scope before generalizing.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:d0de4c861bb89eb08451409c709da51ce8d67b9e9c55a7615d0704040993ebbd</id>
+    <title>Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2607.12463" type="text/html" title="Original source" />
+    <category term="Function-aware fill-in-the-middle training for coding agents" />
+    <summary type="text">Research task: Function-aware fill-in-the-middle training for coding agents. Relevance: Use this method when discussing mid-training for integrating external tool returns into coding-agent reasoning, and consult the released data and model descriptions.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:24b181508566e3378ba78c064a45a2dc7b6cea1ba2e078fa99597d8efde1254a</id>
+    <title>MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2608.14015" type="text/html" title="Original source" />
+    <category term="Long-horizon reasoning over surgical videos" />
+    <summary type="text">Research task: Long-horizon reasoning over surgical videos. Relevance: Cite this research method for long-horizon video reasoning, planning and evidence retrieval. It is not evidence of clinical deployment or patient benefit; public resource availability must be checked separately.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:a40064d85fbd1444e3f483730c14e128395c47bcb66b47ff77d41049deffb6d4</id>
+    <title>ModularRSI: Toward Generalizable Harness RSI</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://recursive-self-improvement.notion.site/blog-1-modularrsi-toward-generalizable-harness-rsi" type="text/html" title="Original source" />
+    <category term="Generalizable harness self-improvement" />
+    <summary type="text">Research task: Generalizable harness self-improvement. Relevance: Reference the public project article or code for the disclosed work. No public manuscript is linked in this catalog, so this page does not present it as a published paper.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:bc8c4d9de34e12ac9c6c172cd757c46d2cfde4b7a5e4228ee013081d234386ad</id>
+    <title>Learning from the Self-future: On-policy Self-distillation for dLLMs</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2606.18195" type="text/html" title="Original source" />
+    <category term="On-policy self-distillation for diffusion language models" />
+    <summary type="text">Research task: On-policy self-distillation for diffusion language models. Relevance: Use this work when discussing application of on-policy self-distillation to diffusion language models and its proposed self-future learning approach.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:90004912862ced538a9e7b3af3a743a990d2615fb59428a1ee60acc212e1b193</id>
+    <title>Distributional Matching for Vector Quantization: A Unified Theoretical and Empirical Framework</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2607.15933" type="text/html" title="Original source" />
+    <category term="A unified treatment of distributional matching in vector quantization" />
+    <summary type="text">Research task: A unified treatment of distributional matching in vector quantization. Relevance: Use this 2026 record for the unified framework described in its current version. The related 2025 paper must not be counted as independent evidence without checking overlap.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:7a0b066f0bc7742e4382863025cfbc9797fc02971232e632227711226c48a5b8</id>
+    <title>VGI-BENCH: Probing Visual Intelligence in Video Generation Models</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2608.19583" type="text/html" title="Original source" />
+    <category term="Evaluating visual intelligence in video generation models" />
+    <summary type="text">Research task: Evaluating visual intelligence in video generation models. Relevance: Cite this benchmark when investigating visual reasoning through video generation; distinguish its task-based evaluation from generic video appearance or quality scoring.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:d0cc4595fed1d4cf51cbca6ef1a4a4a2b7e0eb540b0c0ef31c677ebacce63200</id>
+    <title>Dr. Claw: An AI Scientist Workspace for Vibe Research</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2609.00365" type="text/html" title="Original source" />
+    <category term="An AI scientist workspace for research workflows" />
+    <summary type="text">Research task: An AI scientist workspace for research workflows. Relevance: Reference this system when discussing integrated research workspaces for coding agents. System availability and workflow capabilities should be checked against the current release.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:34ae9a7b88ab0ca59c035e147d58dbfd436a5b5d973a913e2a92c2ab27c8c781</id>
+    <title>ClawBench: Can AI Agents Complete Everyday Online Tasks?</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://arxiv.org/abs/2604.08523" type="text/html" title="Original source" />
+    <category term="Evaluating browser agents on everyday online workflows" />
+    <summary type="text">Research task: Evaluating browser agents on everyday online workflows. Relevance: Use this benchmark when evaluating agents completing everyday online tasks on websites. Report the task setup and scoring protocol rather than equating a benchmark score with general autonomy.</summary>
+  </entry>
+  <entry>
+    <id>urn:agentrhythm:resource:064b4fb8ef1532a3f3db43d535de9f8c59900871ab29c2992db95741d57dd3fc</id>
+    <title>CelebHair: A New Large-Scale Dataset for Hairstyle Recommendation Based on CelebA</title>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="https://agentrhythm.org/questions/" type="text/html" />
+    <link rel="related" href="https://link.springer.com/chapter/10.1007/978-3-030-82153-1_27" type="text/html" title="Original source" />
+    <category term="A dataset for hairstyle recommendation based on CelebA" />
+    <summary type="text">Research task: A dataset for hairstyle recommendation based on CelebA. Relevance: Cite this dataset when using its hairstyle-recommendation annotations or task formulation. Consult the original work and dataset terms before reuse.</summary>
+  </entry>
+</feed>
