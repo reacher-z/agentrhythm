@@ -25,4 +25,5 @@ for page in (ROOT / "dist" / "index.html", ROOT / "dist" / "questions" / "index.
 sitemap = (ROOT / "dist" / "sitemap.xml").read_text()
 assert "https://agentrhythm.org/resources.xml" in sitemap
 assert "https://agentrhythm.org/resources.json" in sitemap
+assert "https://agentrhythm.org/resources.xml" in (ROOT / "dist" / "llms.txt").read_text()
 print(f"validated {len(resources)} Atom resource entries")
